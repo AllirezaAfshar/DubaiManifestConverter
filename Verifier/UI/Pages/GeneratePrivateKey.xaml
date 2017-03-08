@@ -1,0 +1,49 @@
+﻿<template:DetailsPage x:Class="Verifier.UI.Pages.GeneratePrivateKey"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:template="clr-namespace:Verifier.Template"
+             mc:Ignorable="d" >
+    <DockPanel Name="pnlWrapper" HorizontalAlignment="Stretch">
+        <StackPanel   Width="500">
+            <TextBlock>
+            لطفا هنگام ایجاد کلید عمومی و کلید خصوصی به موارد زیر دقت نمایید:
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+* در صورتی که قبلا کلید عمومی و کلید خصوصی خود را ایجاد کرده اید و کلید عمومی را برای پنجره واحد تجارت فرامرزی ارسال کرده اید، لزومی ندارد دوباره این کار را انجام دهید و می توانید از همان کلید سابق استفاده نمایید.
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+* به هیچ وجه کلید خصوصی را در اختیار سایرین (حتی پنجره واحد تجارت فرامرزی) قرار ندهید زیرا در صورتی که شخصی اطلاعاتی را با کلید خصوصی شما تایید نماید مسئولیت این کار بر عهده شما خواهد بود.
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+* در صورتی که هنوز کلید عمومی و کلید خصوصی مخصوص به خود را ایجاد نکرده اید از این صفحه اقدام نموده و فایل های مربوطه را در جایی امن ذخیره نمایید، سپس کلید عمومی را در پنجره واحد تجارت فرامرزی بارگذاری نمایید.
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+* یک جفت کلید عمومی/خصوصی به صورت توام قابل استفاده هستند، در صورتی که کلید خصوصی شما تغییر کرده است باید این تغییر را به گمرک اعلام کرده و کلید عمومی مربوطه را در پنجره واحد تجارت فرامرزی بارگذاری نمایید.
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+                * پس از ایجاد جفت کلید، کلید عمومی را در پنجره واحد تجارت فرامرزی بارگذاری نمایید
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap">
+                * به منظور کسب اطلاعات بیشتر راجع به رمزگذاری نامقارن و سیاست های عدم انکار به تارنمای زیر مراجعه نمایید.
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap" FlowDirection="LeftToRight">
+                https://en.wikipedia.org/wiki/Public-key_cryptography
+            </TextBlock>
+        </StackPanel>
+        <DockPanel Name="pnlLeft" VerticalAlignment="Stretch" Margin="10" HorizontalAlignment="Right" DockPanel.Dock="Left">
+            <DockPanel Name="pnlMessage" DockPanel.Dock="Top" FlowDirection="RightToLeft" Margin="0 10 0 10">
+                <Image DockPanel.Dock="Right" Source="pack://application:,,,/Verifier;component/UI/Assets/tick.png" Name="imgTick" Width="48" Visibility="Collapsed" ></Image>
+                <Image DockPanel.Dock="Right" Source="pack://application:,,,/Verifier;component/UI/Assets/cross.png" Name="imgCross" Width="48" Visibility="Collapsed"></Image>
+                <TextBlock Name="lblMessage" TextAlignment="Justify" VerticalAlignment="Center" HorizontalAlignment="Left" TextWrapping="Wrap">
+                    کاربر گرامی! ابتدا روی دکمه بارگذاری اطلاعات کلیک کنید
+                            سپس فایل مورد نظر خود را انتخاب نمایید. 
+                    پس از انتخاب فایل سیستم به شما صحت یا عدم صحت اطلاعات را نشان می دهد همچنین شما می توانید اطلاعات دریافتی را در قسمت راست برنامه مشاهده نمایید.
+                </TextBlock>
+            </DockPanel>
+            <Button Name="btnGenerateKey" DockPanel.Dock="Top" Click="BtnGenerateKey_OnClick" MinHeight="40" Margin="0 10 0 10">ایجاد کلید</Button>
+            <Image Name="imgLogo" VerticalAlignment="Bottom" Source="pack://application:,,,/Verifier;component/UI/Assets/private-keys.jpg"></Image>
+        </DockPanel>
+    </DockPanel>
+</template:DetailsPage>

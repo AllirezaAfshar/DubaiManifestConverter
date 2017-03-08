@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Verifier.UI.Pages.Verify"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <DockPanel Name="pnlWrapper" HorizontalAlignment="Stretch">
+        <StackPanel Name="pnlResponse" HorizontalAlignment="Center">
+            <WebBrowser Name="webBrowser" MinHeight="600" Navigated="WebBrowser_OnNavigated" LoadCompleted="WebBrowser_OnLoadCompleted" Margin="10 50 0 0" Visibility="Collapsed"></WebBrowser>
+            <Image Name="imgLogo" MaxWidth="400" Height="{Binding ElementName=pnlResponse, Path=ActualHeight}" Source="pack://application:,,,/Verifier;component/UI/Assets/logo.png"></Image>
+        </StackPanel>
+        <DockPanel DockPanel.Dock="Left" Name="pnlLeft" VerticalAlignment="Stretch" HorizontalAlignment="Right" Width="300" Margin="10">
+            <DockPanel Name="pnlMessage" DockPanel.Dock="Top" FlowDirection="RightToLeft" Margin="0 10 0 10">
+                <Image DockPanel.Dock="Right" Source="pack://application:,,,/Verifier;component/UI/Assets/tick.png" Name="imgTick" Width="48" Visibility="Collapsed" ></Image>
+                <Image DockPanel.Dock="Right" Source="pack://application:,,,/Verifier;component/UI/Assets/cross.png" Name="imgCross" Width="48" Visibility="Collapsed"></Image>
+                <TextBlock Name="lblMessage" TextAlignment="Justify" VerticalAlignment="Center" HorizontalAlignment="Left" TextWrapping="Wrap">
+                    کاربر گرامی! به منظور بررسی اصالت پروانه ابتدا روی دکمه بارگذاری اطلاعات کلیک کنید
+                            سپس فایل پروانه مورد نظر خود را انتخاب نمایید. 
+                    پس از انتخاب فایل سیستم به شما صحت یا عدم صحت اطلاعات را نشان می دهد همچنین شما می توانید اطلاعات دریافتی را در قسمت راست برنامه مشاهده نمایید.
+                </TextBlock>
+            </DockPanel>
+            <Button Name="btnUploadFile" DockPanel.Dock="Top" Click="BtnUploadFile_OnClick" MinHeight="40" Margin="0 10 0 10">بارگذاری اطلاعات</Button>
+            <Image DockPanel.Dock="Bottom" Source="pack://application:,,,/Verifier;component/UI/Assets/qrcode-edited.png" Name="imgBarcode" Width="{Binding ElementName=pnlLeft, Path=ActualWidth}" VerticalAlignment="Bottom" ></Image>
+        </DockPanel>
+    </DockPanel>
+</UserControl>

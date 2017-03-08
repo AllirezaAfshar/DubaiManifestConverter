@@ -1,0 +1,78 @@
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.exe.config
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.exe
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.pdb
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.csprojResolveAssemblyReference.cache
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\App.g.cs
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier_MarkupCompile.cache
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.g.resources
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.Properties.Resources.resources
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.csproj.GenerateResource.Cache
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.exe
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.pdb
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Microsoft.Windows.Shell.dll
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\FirstFloor.ModernUI.pdb
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\UI\Template\Wrapper.baml
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\App.baml
+c:\users\abouzarkamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\UI\Template\Wrapper.g.cs
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.exe.manifest
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Verifier.application
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.TrustInfo.xml
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.exe.manifest
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier.application
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Ionic.Zip.dll
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Ionic.Zip.xml
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\bin\Debug\Resources\publicKey.der
+C:\Users\AbouzarKamaee\documents\visual studio 2013\Projects\Verifier\Verifier\obj\Debug\Verifier_Content.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Verifier.exe.config
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.exe
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.pdb
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Resources\publicKey.der
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Verifier.exe
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Verifier.pdb
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Ionic.Zip.dll
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\FirstFloor.ModernUI.pdb
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Ionic.Zip.xml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.csprojResolveAssemblyReference.cache
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Template\Wrapper.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\App.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Template\Wrapper.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\App.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier_Content.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier_MarkupCompile.cache
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.g.resources
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.Properties.Resources.resources
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.csproj.GenerateResource.Cache
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.dll
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.presentation.dll
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.pdb
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.xml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.presentation.pdb
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\zxing.presentation.xml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\GeneratePrivateKey.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Sign.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Verify.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\GeneratePrivateKey.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Sign.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Verify.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\VerifyDocument.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\VerifyDocument.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier_MarkupCompile.lref
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Verifier.exe.manifest
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Verifier.application
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.TrustInfo.xml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.exe.manifest
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\Verifier.application
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Template\Main.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Template\Main.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\bin\Debug\Resources\chk.txt
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Login.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Login.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Register.g.cs
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UI\Pages\Register.baml
+C:\Users\Abouzar\Source\Repos\verifier\Verifier\obj\Debug\UserControl\uPublicKey.g.cs
